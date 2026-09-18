@@ -1,35 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm a diploma student who spends a lot of my time on Linux, building software, experimenting with AI, and figuring out how things work.
+I'm a diploma student who spends most of my time on **Linux, software development, AI, and figuring out how things work by building them.**
 
-## Who am I?
+## What I do
 
-* Student learning software development through projects and experimentation.
-* Linux is my daily environment.
-* I build tools to solve problems I run into myself.
-* I'm currently getting deeper into AI / ML and learning more about what happens behind the models and tools I use.
+* Build software to solve problems I actually run into.
+* Use **Linux** as my daily development environment.
+* Experiment with **AI / ML**, local models, and AI-assisted development.
+* Learn new technologies by building complete projects rather than isolated experiments.
 
-## What am I working on?
+## Projects
 
 ### [Zine Scraper](https://github.com/valse-de-anshu/zine-scraper)
 
-A terminal tool I built for downloading and organizing media from links.
+**Python · TUI · Scraping · Automation**
 
-Instead of remembering commands and options, you paste a link, use the interactive terminal interface, choose what you need, and let Zine handle the download and organization.
+A terminal-based tool for downloading, organizing, and processing media from supported sources.
 
-It is also where I'm learning by building real things: CLI/TUI interfaces, Python, automation, scrapers, file handling, configuration, and different ways of putting tools together.
+Built while learning **Python, TUI design, scrapers, automation, metadata, file systems, and CLI tooling.**
 
-## What do I use?
+### [Hwaran](https://github.com/valse-de-anshu/Hwaran)
 
-`Python` · `QML` · `Bash` · `Arch Linux` · `Git` · `AI`coding `agent` 
+**Android · Kotlin · Jetpack Compose · Media**
 
-I've experimented with local AI and tools such as Ollama, llama.cpp, GGUF models, CUDA, and AI-assisted development.
+An **offline-first media library** for Android that brings manga, manhua, novels, books, videos, anime, and music into one local library.
 
-## How can you reach me?
+Built with **Kotlin, Jetpack Compose, Room, Media3/ExoPlayer, SAF, and custom media/reader engines.**
 
-* Discord: https://discord.gg/suJD5xtFj
-* Email: `valsedeanshu@gmail.com`
+### [Ballade](https://github.com/valse-de-anshu/Ballade)
+
+**Linux · Hyprland · QuickShell · QML**
+
+My custom **Hyprland desktop shell and rice** built with QuickShell and Qt6/QML.
+
+Includes custom widgets, dynamic theming, wallpapers, music integration, sidebars, settings, scripts, and desktop utilities.
+
+## What I Run into daily 
+
+`Python` · `Kotlin` · `QML` · `Bash` · `Jetpack Compose` · `Qt6` · `Arch Linux` · `Hyprland` · `Git` · `AI`
+
+I've also worked with **Ollama, llama.cpp, GGUF models, CUDA, local AI, and AI-assisted development.**
 
 ---
 
-*I build things because I want to know how they work.*
+> I learn by building things, breaking them, and figuring out why they broke.
